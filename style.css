@@ -1,0 +1,82 @@
+.box {
+  border: 0.2px solid lightgrey;
+  border-radius: none;
+  width: 350px;
+  padding: 30px 10;
+  margin: 40px auto;
+  height: 500px;
+}
+.logo {
+  color: black;
+  margin-top: 40px;
+  margin-bottom: 0px;
+  margin-left: 79px;
+  margin-right: 75px;
+  width: 190px;
+  height: 95px;
+}
+.input-inner {
+  padding: 20px 10px;
+  box-sizing: border-box;
+  width: 280px;
+  height: 30px;
+  margin: 3.5px;
+  background-color: rgba(243, 241, 241, 0.968);
+  border: 1px solid lightgrey;
+  border-radius: 3px;
+}
+.input-outer {
+  box-sizing: border-box;
+  margin-left: 30px;
+  margin-top: 1px;
+  margin-bottom: px;
+}
+.login-button {
+  padding: 10px;
+  box-sizing: border-box;
+  width: 290px;
+  height: px;
+  margin-top: 10px;
+  margin-left: px;
+  background-color: rgba(0, 179, 255, 0.814);
+  color: white;
+  border: none;
+  border-radius: 3px;
+}
+
+.line1 {
+  width: 100px;
+  margin-left: 1px auto;
+  display: inline-block;
+  color: lightgrey;
+}
+.line2 {
+  width: 100px;
+  margin-left: 1px auto;
+  display: inline-block;
+  color: lightgrey;
+}
+
+.or {
+  line-height: 6;
+  display: inline-block;
+  font-family: sans-serif;
+  font-size: 12px;
+  color: grey;
+  text-align: center;
+  margin-left: 90px;
+}
+p {
+  color: rgb(32 0 255 / 90%);
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.forgot {
+  font-size: 13px;
+}
+
+.fblogo {
+  width: 20px;
+  height: 15px;
+}
